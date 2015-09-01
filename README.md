@@ -33,9 +33,8 @@ Time spent: 15 hour
 
 ### Walkthrough
 
-`<Add your Walkthrough Gif here (by updating the image URL)>`
-
-![Video Walkthrough](...)
+- 
+ ![gif](https://github.com/yidea/nodejs-dropbox/blob/master/gif/get.gif)
 
 ### TODO 
 - Unified error handling
