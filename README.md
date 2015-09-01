@@ -4,6 +4,16 @@ This is a basic Dropbox clone to sync files across multiple remote folders.
 
 Time spent: 15 hour
 
+### Setup
+
+`bash
+npm install
+# start HTTP server and TCP server
+npm start 
+# start TCP client
+npm run client 
+`
+
 ### Features
 
 #### Required
