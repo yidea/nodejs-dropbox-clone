@@ -33,8 +33,8 @@ Time spent: 15 hour
 
 ### Walkthrough
 
-- 
- ![gif](https://github.com/yidea/nodejs-dropbox/blob/master/gif/get.gif)
+- GET + HEAD
+ ![gif](https://github.com/yidea/nodejs-dropbox-clone/blob/master/public/gif/get_head.gif)
 
 ### TODO 
 - Unified error handling
