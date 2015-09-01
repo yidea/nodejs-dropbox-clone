@@ -33,8 +33,14 @@ Time spent: 15 hour
 
 ### Walkthrough
 
-- GET + HEAD
- ![gif](https://github.com/yidea/nodejs-dropbox-clone/blob/master/public/gif/get_head.gif)
+- GET + HEAD operation
+  ![gif](https://github.com/yidea/nodejs-dropbox-clone/blob/master/public/gif/get_head.gif)
+- PUT + POST + DELETE operation
+  ![gif](https://github.com/yidea/nodejs-dropbox-clone/blob/master/public/gif/put_post_delete.gif)
+- TCP sync via HTTP
+  ![gif](https://github.com/yidea/nodejs-dropbox-clone/blob/master/public/gif/tcp_sync_http.gif)
+- File Watcher
+  ![gif](https://github.com/yidea/nodejs-dropbox-clone/blob/master/public/gif/file_watcher.gif)
 
 ### TODO 
 - Unified error handling
